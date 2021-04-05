@@ -1,0 +1,7 @@
+# This pulls in numpy
+opencv-python
+matplotlib
+# Image utilities for OpenCV etc. from Adrian Rosebrock
+imutils
+# Upstream example uses argparse, but I prefer click
+click

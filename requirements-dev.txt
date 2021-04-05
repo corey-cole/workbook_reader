@@ -1,0 +1,2 @@
+# Tox will ensure we have pytest and similar
+# This would be for anything else we need for testing

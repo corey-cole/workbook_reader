@@ -1,3 +1,4 @@
+"""Observer data workbook scan processing"""
 from pkgutil import extend_path
 from typing import Iterable
 

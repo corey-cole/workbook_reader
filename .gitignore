@@ -145,5 +145,12 @@ cython_debug/
 *.png
 *.jpg
 
+# SQLite databases used for storing metadata etc.
+*.db
+
+# Ignore the default working directory for the app
+workdir/
+
+
 # TODO: settings.json contains fully qualified paths with embedded usernames.
 .vscode/settings.json
